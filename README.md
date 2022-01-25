@@ -26,6 +26,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Github Stats
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhuamit0606&theme=light&show_icons=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Amitanand's+Github+Stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhuamit0606&theme=light&show_icons=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Amitanand's+Github+Stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhuamit0606&hide=html&title_color=FD9047&bg_color=0C2233&text_color=D6D6D6"/>
