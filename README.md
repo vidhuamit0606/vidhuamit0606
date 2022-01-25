@@ -16,8 +16,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Send me a message!
 - I am open for collaborations, send me a message! Here is where you are
+
 <P>
-  <a hef="https://www.linkedin.com/in/amit-kr-sharma-84406b26/">
+  <a href="https://www.instagram.com/amitsk0508/">
+ <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+ </a>
+  <a href="https://www.linkedin.com/in/amit-kr-sharma-84406b26/">
  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
  </a>
 </P>  
