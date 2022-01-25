@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there and welcome to my Github Page 👋
+hi, i'm AmitAnand, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-<!--
-**vidhuamit0606/vidhuamit0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-Here are some ideas to get you started:
+###What do I do ?
+<P>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=black&style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=black&style=for-the-badge" />
+<img alt="Css" src="https://img.shields.io/badge/Css-1572B6?logo=css&logoColor=black&style=for-the-badge" />
+<img alt="GrapgQl" src="https://img.shields.io/badge/GrapgQL-E10098?logo=graphql&logoColor=black&style=for-the-badge" />
+<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azuredevops&logoColor=black&style=for-the-badge" />
+<img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+</P>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Send me a message!
+- I am open for collaborations, send me a message! Here is where you are
+<P>
+  <a hef="https://www.linkedin.com/in/amit-kr-sharma-84406b26/">
+ <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+</P>  
+
+----
+
+### Github Stats
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhuamit0606&theme=light&show_icons=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Amitanand's+Github+Stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhuamit0606&hide=html&title_color=FD9047&bg_color=0C2233&text_color=D6D6D6"/>
