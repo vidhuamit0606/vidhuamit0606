@@ -12,6 +12,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img alt="GrapgQl" src="https://img.shields.io/badge/GrapgQL-E10098?logo=graphql&logoColor=black&style=for-the-badge" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azuredevops&logoColor=black&style=for-the-badge" />
 <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+<img alt="WPF" src="https://img.shields.io/badge/wpf%2FPrism-2D3748?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </P>
 
 ### Send me a message!
