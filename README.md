@@ -21,6 +21,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Prism modularization in Xamarin.Forms](https://amitanands.blogspot.com/2022/02/using-prism-modularization-in.html)
+- [WPF Multithreading: Using the BackgroundWorker and Reporting the Progress to the UI](https://amitanands.blogspot.com/2022/01/wpf-multithreading-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Send me a message!
