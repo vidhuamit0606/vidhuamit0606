@@ -3,7 +3,7 @@ hi, i'm AmitAnand, a passionate self-taught full stack web developer and a freel
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-###What do I do ?
+###Languages and Tools:
 <P>
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=black&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
