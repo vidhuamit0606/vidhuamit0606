@@ -14,6 +14,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 <img alt="WPF" src="https://img.shields.io/badge/wpf%2FPrism-2D3748?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </P>
+<br/>
+<br/>
+
+---
+
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Send me a message!
 - I am open for collaborations, send me a message! Here is where you are
