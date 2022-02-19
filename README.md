@@ -21,6 +21,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### <g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji> Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Prism modularization in Xamarin.Forms](https://amitanands.blogspot.com/2022/02/using-prism-modularization-in.html)
+- [WPF Multithreading: Using the BackgroundWorker and Reporting the Progress to the UI](https://amitanands.blogspot.com/2022/01/wpf-multithreading-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Send me a message!
