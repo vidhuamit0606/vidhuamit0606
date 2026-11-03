@@ -17,36 +17,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br/>
 <p>
   🎨 Frontend Development
- <!-- HTML5 -->
-<img src="https://githubusercontent.com" alt="HTML5" width="40" height="40"/>
-
-<!-- CSS3 -->
-<img src="https://githubusercontent.com" alt="CSS3" width="40" height="40"/>
-
-<!-- Sass -->
-<img src="https://githubusercontent.com" alt="Sass" width="40" height="40"/>
-
-<!-- Tailwind CSS -->
-<img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40"/>
-
-<!-- Bootstrap -->
-<img src="https://githubusercontent.com" alt="Bootstrap" width="40" height="40"/>
-
-<!-- React -->
-<img src="https://githubusercontent.com" alt="React" width="40" height="40"/>
-
-<!-- Next.js -->
-<img src="https://githubusercontent.com" alt="Next.js" width="40" height="40"/>
-
-<!-- Angular -->
-<img src="https://githubusercontent.com" alt="Angular" width="40" height="40"/>
-
-<!-- Redux -->
-<img src="https://githubusercontent.com" alt="Redux" width="40" height="40"/>
-
-<!-- Vite -->
-<img src="https://githubusercontent.com" alt="Vite" width="40" height="40"/>
-
+  <br/>
+ ![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Sass](https://shields.io)
+![Tailwind CSS](https://shields.io)
+![Bootstrap](https://shields.io)
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![Angular](https://shields.io)
+![Redux](https://shields.io)
+![Vite](https://shields.io)
 </p>
 
 <br/>
