@@ -18,16 +18,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p>
   🎨 Frontend Development
   <br/>
- ![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Sass](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![Bootstrap](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Angular](https://shields.io)
-![Redux](https://shields.io)
-![Vite](https://shields.io)
+<img alt="HTML5" src="https://shields.io" />
+<img alt="CSS3" src="https://shields.io" />
+<img alt="Sass" src="https://shields.io" />
+<img alt="Tailwind CSS" src="https://shields.io" />
+<img alt="Bootstrap" src="https://shields.io" />
+<img alt="React" src="https://shields.io" />
+<img alt="Next.js" src="https://shields.io" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=black&style=for-the-badge" />
+<img alt="Redux" src="https://shields.io" />
+<img alt="Vite" src="https://shields.io" />
+
 </p>
 
 <br/>
