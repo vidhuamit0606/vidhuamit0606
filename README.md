@@ -17,8 +17,35 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br/>
 <p>
   🎨 Frontend Development
+ <!-- HTML5 -->
+<img src="https://githubusercontent.com" alt="HTML5" width="40" height="40"/>
 
-<img src="https://skillicons.dev" alt="Frontend Development Stack" />
+<!-- CSS3 -->
+<img src="https://githubusercontent.com" alt="CSS3" width="40" height="40"/>
+
+<!-- Sass -->
+<img src="https://githubusercontent.com" alt="Sass" width="40" height="40"/>
+
+<!-- Tailwind CSS -->
+<img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40"/>
+
+<!-- Bootstrap -->
+<img src="https://githubusercontent.com" alt="Bootstrap" width="40" height="40"/>
+
+<!-- React -->
+<img src="https://githubusercontent.com" alt="React" width="40" height="40"/>
+
+<!-- Next.js -->
+<img src="https://githubusercontent.com" alt="Next.js" width="40" height="40"/>
+
+<!-- Angular -->
+<img src="https://githubusercontent.com" alt="Angular" width="40" height="40"/>
+
+<!-- Redux -->
+<img src="https://githubusercontent.com" alt="Redux" width="40" height="40"/>
+
+<!-- Vite -->
+<img src="https://githubusercontent.com" alt="Vite" width="40" height="40"/>
 
 </p>
 
