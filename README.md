@@ -37,8 +37,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <a href="https://www.linkedin.com/in/amit-kr-sharma-84406b26/">
  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
  </a>
-  <a href="https://www.linkedin.com/in/amit-kr-sharma-84406b26/">
- <img alt="Gmail" src="https://img.shields.io/badge/linkedin-0077B5?logo=gmail&logoColor=white&style=for-the-badge" />
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+ <img alt="Gmail" src="https://img.shields.io/badge/gmail-0077B5?logo=gmail&logoColor=white&style=for-the-badge" />
  </a>
 </P>  
 
