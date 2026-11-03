@@ -16,7 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </P>
 <br/>
 <p>
-  ### 🎨 Frontend Development
+  🎨 Frontend Development
 
 <img src="https://skillicons.dev" alt="Frontend Development Stack" />
 
