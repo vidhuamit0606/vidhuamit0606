@@ -15,6 +15,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img alt="WPF" src="https://img.shields.io/badge/wpf%2FPrism-2D3748?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </P>
 <br/>
+<p>
+  ### 🎨 Frontend Development
+
+<img src="https://skillicons.dev" alt="Frontend Development Stack" />
+
+</p>
+
 <br/>
 
 ---
